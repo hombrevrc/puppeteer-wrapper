@@ -21,9 +21,11 @@
     "@types/jimp": "^0.2.28",
     "@types/moment": "^2.13.0",
     "@types/puppeteer": "^1.10.0",
+    "@types/sleep": "0.0.7",
     "del": "^3.0.0",
     "jimp": "^0.5.6",
     "moment": "^2.22.2",
-    "puppeteer": "^1.10.0"
+    "puppeteer": "^1.10.0",
+    "sleep": "^5.2.3"
   }
 }
