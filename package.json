@@ -1,0 +1,29 @@
+{
+  "name": "puppeteer-wrapper",
+  "version": "1.0.0",
+  "description": "TypeScript Puppeteer Wrapper",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virgotagle/puppeteer-wrapper.git"
+  },
+  "author": "Floyd Pagar <virgotagle@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virgotagle/puppeteer-wrapper/issues"
+  },
+  "homepage": "https://github.com/virgotagle/puppeteer-wrapper#readme",
+  "dependencies": {
+    "@types/del": "^3.0.1",
+    "@types/jimp": "^0.2.28",
+    "@types/moment": "^2.13.0",
+    "@types/puppeteer": "^1.10.0",
+    "del": "^3.0.0",
+    "jimp": "^0.5.6",
+    "moment": "^2.22.2",
+    "puppeteer": "^1.10.0"
+  }
+}

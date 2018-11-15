@@ -59,3 +59,24 @@ typings/
 
 # next.js build output
 .next
+
+
+#Test
+src/test/
+
+#VS CODE
+.vscode/
+
+#dist
+dist/
+
+#html
+*.html
+
+#ts config
+tsconfig.json
+
+#ts lint
+tslint.json
+
+ChromeSettings/
